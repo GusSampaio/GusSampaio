@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @GusSampaio
-- 👀 I’m interested in data science and machine learning
-- 📫 You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br
+<h2>👋 Hi, I’m Gustavo Sampaio </h2>
+<p><em>Undergraduate Student at <a href="https://www.icmc.usp.br" target= "_blank">Institute of Mathematics and Computer Science </a><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="60"> 
+</em></p>
 
-<!---
+## Progamming Languages and some tech
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Gustavo Sampaio'
+		hobbies = [
+            'Play sports',
+            'Search about black holes and subjects involving physics',
+            'Search about data science and machine learning',
+            'Photography and filming'
+		]
+	
+	def getCity():
+		return SaoPaulo_Brazil()
+	
+	def Ambitions():
+		student_exchange_program()
+		big_company_internship()
+    # Much more to think about
+    
+  def contacts():
+    return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
+ ```
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusSampaio&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusSampaio&layout=compact&theme=tokyonight"/>
---->
 
 <!---
 GusSampaio/GusSampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
