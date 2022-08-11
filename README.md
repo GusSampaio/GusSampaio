@@ -15,24 +15,25 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Gustavo Sampaio'
-		hobbies = [
-            'Play sports',
-            'Search about black holes and subjects involving physics',
-            'Search about data science and machine learning',
-            'Photography and filming'
-		]
-	
-	def getCity():
-		return SaoPaulo_Brazil()
-	
-	def Ambitions():
-		student_exchange_program()
-		big_company_internship()
-    # Much more to think about
-    
-	def Contacts():
-		return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
+	def __init__(self)
+      self.user = 'Gustavo Sampaio'
+      self.hobbies = [
+         'Play sports',
+     	'Search about black holes and subjects involving physics',
+   	'Search about data science and machine learning',
+         'Photography and filming'
+      ]
+   
+   def getCity(self):
+   	return SaoPaulo_Brazil()
+   
+   def Ambitions(self):
+   	student_exchange_program()
+   	big_company_internship()
+   # Much more to think about
+   
+   def Contacts(self):
+   	return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
  ```
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusSampaio&show_icons=true&theme=tokyonight"/>
