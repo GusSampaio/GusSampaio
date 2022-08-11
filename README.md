@@ -27,8 +27,8 @@
 		big_company_internship()
     # Much more to think about
     
-  def contacts():
-    return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
+	def contacts():
+		return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
  ```
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusSampaio&show_icons=true&theme=tokyonight"/>
