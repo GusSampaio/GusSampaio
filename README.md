@@ -2,6 +2,10 @@
 <p><em>Undergraduate Student at <a href="https://www.icmc.usp.br" target= "_blank">Institute of Mathematics and Computer Science </a><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="60"> 
 </em></p>
 
+![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sampaio-lima-935788205)
+
+
+
 ## Progamming Languages and some tech
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +31,7 @@
 		big_company_internship()
     # Much more to think about
     
-	def contacts():
+	def Contacts():
 		return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
  ```
 
