@@ -2,7 +2,7 @@
 <p><em>Undergraduate Student at <a href="https://www.icmc.usp.br" target= "_blank">Institute of Mathematics and Computer Science </a><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="60"> 
 </em></p>
 
-![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sampaio-lima-935788205)
+![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link="https://www.linkedin.com/in/gustavo-sampaio-lima-935788205")
 
 
 
