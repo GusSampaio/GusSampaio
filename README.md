@@ -2,9 +2,7 @@
 <p><em>Undergraduate Student at <a href="https://www.icmc.usp.br" target= "_blank">Institute of Mathematics and Computer Science </a><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="60"> 
 </em></p>
 
-![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link="https://www.linkedin.com/in/gustavo-sampaio-lima-935788205")
-
-
+<a href="https://www.linkedin.com/in/gustavo-sampaio-lima-935788205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Progamming Languages and some tech
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,8 +38,12 @@
    def Contacts(self):
    	return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
  ```
+<div align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusSampaio&show_icons=true&theme=tokyonight"/>
+	<img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussampaio&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusSampaio&show_icons=true&theme=tokyonight"/>
+![Snake animation](https://github.com/leonemac/leonemac/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 GusSampaio/GusSampaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
