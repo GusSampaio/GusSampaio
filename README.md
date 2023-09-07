@@ -18,13 +18,16 @@
       self.user = 'Gustavo Sampaio'
       self.hobbies = [
          'Play sports',
-     	'Search about black holes and subjects involving physics',
-   	'Search about data science and machine learning',
          'Photography and filming'
+      ]
+      self.studies = [
+         'Search about black holes and subjects involving physics',
+         'Search about data science and machine learning',
+         'Search about Deep Neural Networks and NLP'
       ]
    
    def getCity(self):
-   	return SaoPaulo_Brazil()
+   	return 'São Carlos - SP - Brazil'
    
    def Ambitions(self):
    	student_exchange_program()
