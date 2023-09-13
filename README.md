@@ -3,9 +3,10 @@
 <p><a href="https://www.linkedin.com/in/gussampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@GusSampaio" target="_blanck"> <img src="https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=medium&amp" ></a></p>
 
+<p>
 <img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 I’m currently studying my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
 <li>🧐 Learning about <strong>Machine Learning Algorithms</strong>, <strong>Natural Language Processing</strong>, and a bit of <strong>LLM's</strong>.</li>
@@ -13,8 +14,10 @@
 <li>💬 Ping me for <strong>data science projects</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1aRw1SPxWWZg6GO-V4gWRC3wv17xsCgZ3/view?usp=sharing">resume</a>.</li>
 </ul>
+</p>
 
-## Programming Languages and some tech
+<h2> Some tech I use </h2>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
