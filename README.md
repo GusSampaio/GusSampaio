@@ -3,8 +3,7 @@
 <p><a href="https://www.linkedin.com/in/gussampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@GusSampaio" target="_blanck"> <img src="https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=medium&amp" ></a></p>
 
-<p>
-<img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" height=300px/>
 
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
@@ -14,7 +13,7 @@
 <li>💬 Ping me for <strong>data science projects</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1aRw1SPxWWZg6GO-V4gWRC3wv17xsCgZ3/view?usp=sharing">resume</a>.</li>
 </ul>
-</p>
+
 
 <h2> Some tech I use </h2>
 
