@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" height=250px/>
 
-<h2>⚡️ A Few Quick Facts </h2>
+<h2>⚡️ Some Few Quick Facts </h2>
 <ul>
 <li>🔭 I’m currently studying my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
 <li>🧐 Learning about <strong>Machine Learning Algorithms</strong>, <strong>Natural Language Processing</strong>, and a bit of <strong>LLM's</strong>.</li>
