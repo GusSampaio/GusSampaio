@@ -43,8 +43,6 @@
    
    def Ambitions(self):
    	student_exchange_program()
-   	big_company_internship()
-   # Much more to think about
    
    def Contacts(self):
    	return "You can reach me on gustavo.sampaio_13@outlook.com or gustavo.sampaio@usp.br"
