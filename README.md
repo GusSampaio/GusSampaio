@@ -9,7 +9,6 @@
 <ul>
 <li>🔭 I’m currently studying my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
 <li>🧐 Learning <strong>Machine Learning Algorithms</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>.</li>
-<li>👨‍💻 I'm working to build my first portfolio webpage.</li>
 <li>💬 Ping me for <strong>data science projects</strong>.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1jAUW74WYdY6qQ577SLrzMJVrR7Fx09l3b651SuR4Ltk/edit?usp=sharing">resume</a>.</li>
 </ul>
