@@ -24,7 +24,7 @@
 
 ## Who am I?
  ```python
- class WhoAmI:
+ class Gustavo:
 	def __init__(self):
       self.user = 'Gustavo Sampaio'
       self.hobbies = [
