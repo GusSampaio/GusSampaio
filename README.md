@@ -37,7 +37,7 @@
          'Search about Deep Neural Networks and NLP'
       ]
    
-   def getCity(self):
+   def GetCity(self):
    	return 'São Carlos - SP - Brazil'
    
    def Ambitions(self):
