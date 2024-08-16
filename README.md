@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Gustavo Sampaio </h2>
-<p>I'm at the Research and Development team at <strong><a href="https://www.embraer.com/">Embraer</a></strong>, aiming to develop AI tools for segmentation tasks in videos. I am working on some side projects, learning some new receipes, and trying to have a stable presence at Gym.</p>
+<p>I'm at the Research and Development team at <strong><a href="https://www.embraer.com/">Embraer</a></strong>, aiming to develop AI tools. I am working on some side projects, learning some new receipes, and trying to have a stable presence at Gym.</p>
 <p><a href="https://www.linkedin.com/in/gussampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@GusSampaio" target="_blanck"> <img src="https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=medium&amp" ></a></p>
 
