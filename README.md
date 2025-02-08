@@ -3,9 +3,9 @@
 <p><a href="https://www.linkedin.com/in/gussampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@GusSampaio" target="_blanck"> <img src="https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=medium&amp" ></a></p>
 
-<img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" height=250px/>
 
 <h2>⚡️ Some Few Quick Facts </h2>
+<img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" height=140px/>
 <ul>
 <li>🔭 I’m currently studying my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
 <li>🧐 Learning <strong>Machine Learning Algorithms</strong>, <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>.</li>
