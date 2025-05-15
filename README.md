@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Gustavo Sampaio </h2>
-<p>I'm at the NLP research group at <strong><a href="https://www.sheffield.ac.uk/cs/research/groups/natural-language-processing">University of Sheffield</a></strong> and at <strong><a href="https://sites.google.com/view/nilc-usp/">Interinstitutional Center for Computational Linguistics</a></strong>, aiming to develop AI tools. I am working on some side projects, learning some new receipes, and trying to have a stable presence at gym.</p>
+<p>I'm a NLP researcher at <strong><a href="https://sites.google.com/view/nilc-usp/">Interinstitutional Center for Computational Linguistics</a></strong>, aiming to develop AI tools. I am working on some side projects, learning some new receipes, and trying to have a stable presence at gym.</p>
 <p><a href="https://www.linkedin.com/in/gussampaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@GusSampaio" target="_blanck"> <img src="https://img.shields.io/badge/-Medium-0A0A0A?style=for-the-badge&amp;labelColor=0A0A0A&amp;logo=medium&amp" ></a></p>
 
@@ -7,7 +7,7 @@
 <h2>⚡️ Some Few Quick Facts </h2>
 <img align="right" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" height=140px/>
 <ul>
-<li>🔭 I’m currently studying my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
+<li>🔭 I’m currently finishing my bachelor's degree in Computer Science at <a href="https://www5.usp.br">USP - Universidade de São Paulo</a>.</li>
 <li>🧐 Learning <strong>Natural Language Processing</strong>, and <strong>Computer Vision</strong>.</li>
 <li>💬 Ping me for <strong>data science projects</strong>.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1jAUW74WYdY6qQ577SLrzMJVrR7Fx09l3b651SuR4Ltk/edit?usp=sharing">resume</a>.</li>
